@@ -18,6 +18,6 @@ class Dashboard extends CI_Controller
     }
 
     function tes(){
-        //tes komit
+       echo "tes";
     }
 }
