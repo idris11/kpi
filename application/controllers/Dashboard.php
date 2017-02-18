@@ -16,4 +16,8 @@ class Dashboard extends CI_Controller
 		$data['content']='dashboard';
 		$this->load->view('template',$data);
     }
+
+    function tes(){
+        //tes komit
+    }
 }
